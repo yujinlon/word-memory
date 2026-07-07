@@ -80,6 +80,10 @@ a {
   word-break: break-word;
 }
 
+.title-line {
+  display: inline;
+}
+
 .hero p {
   margin: 0;
   max-width: 720px;
@@ -187,6 +191,10 @@ footer {
   .hero h1 {
     font-size: 40px;
     line-height: 1.08;
+  }
+
+  .hero h1 .title-line {
+    display: block;
   }
 
   .meta {
