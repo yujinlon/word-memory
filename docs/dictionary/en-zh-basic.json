@@ -1,0 +1,27 @@
+{
+  "version": "2026.07.07-demo",
+  "updatedAt": "2026-07-07T00:00:00.000Z",
+  "entries": [
+    {
+      "term": "hello",
+      "meaningZh": "你好；喂",
+      "example": "Hello, nice to meet you.",
+      "exampleZh": "你好，很高兴认识你。",
+      "tags": "问候 常用"
+    },
+    {
+      "term": "airport",
+      "meaningZh": "机场",
+      "example": "We arrived at the airport early.",
+      "exampleZh": "我们很早就到了机场。",
+      "tags": "旅行 场所"
+    },
+    {
+      "term": "ticket",
+      "meaningZh": "票；票券",
+      "example": "I bought a train ticket online.",
+      "exampleZh": "我在网上买了一张火车票。",
+      "tags": "旅行 交通"
+    }
+  ]
+}
