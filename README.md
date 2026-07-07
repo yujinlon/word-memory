@@ -7,19 +7,19 @@
 ## 下载
 
 - 公开下载页：<https://yujinlon.github.io/word-memory/>
-- Release 页面：<https://github.com/yujinlon/word-memory/releases/tag/android-v1.0.0-vc4>
-- APK 直接下载：<https://github.com/yujinlon/word-memory/releases/download/android-v1.0.0-vc4/word-memory-1.0.0-android-vc4.apk>
-- SHA-256 校验文件：<https://github.com/yujinlon/word-memory/releases/download/android-v1.0.0-vc4/word-memory-1.0.0-android-vc4.sha256.txt>
+- Release 页面：<https://github.com/yujinlon/word-memory/releases/tag/android-v1.0.1-vc5>
+- APK 直接下载：<https://github.com/yujinlon/word-memory/releases/download/android-v1.0.1-vc5/word-memory-1.0.1-android-vc5.apk>
+- SHA-256 校验文件：<https://github.com/yujinlon/word-memory/releases/download/android-v1.0.1-vc5/word-memory-1.0.1-android-vc5.sha256.txt>
 
 APK SHA-256：
 
 ```text
-5F0157E629D2AAF26CCCAB7CBB042294D44C4B4F442F94A1A52F6B9F52CF5849
+8E8C0D9533EB271D04CA1A5DD56C7A68F57CAEE9A43CA8C8B2B89A5E0AE88550
 ```
 
 ## 安装
 
-1. 在 Android 设备上下载 `word-memory-1.0.0-android-vc4.apk`。
+1. 在 Android 设备上下载 `word-memory-1.0.1-android-vc5.apk`。
 2. 打开 APK。
 3. 如果系统提示“未知来源应用”，请允许浏览器或文件管理器安装。
 4. 安装完成后打开“单词记忆”。
